@@ -9,6 +9,7 @@
 - Disini saya menginisialisasikan "bil1" sebagai bilangan pertama, "bil2" sebagai bilangan kedua, "bil3" sebagai bilangan ketiga.
 - Dengan cara statement if untuk "bil1" sebagai bilangan pertamma, elif untuk "bil2" sebagai bilangan kedua, elif untuk "bil3" sebagai bilangan ketiga, dan else jika false atau salah, maksudnya jika inputan user di luar program, dia akan menampilkan ini.
 - Berikut program yang saya buat
+
 ![gambar2](ss/ssan2.PNG)
  ## Beriikut hasil program yang saya buat
  ### kapan variabel "bil1" dikatakan yang paling besar? variabel "bil1" dikatakan yang paling besar, ketika ia lebih besar dari nilai "bil2", dan juga lebih besar dari niai "bil3"
@@ -26,7 +27,7 @@
 ## Kelemaham program yang saya buat adalah, jika kita memasukan 2 angka yang sama, maka nilai terakhir dari kedua variabel itu yang terbesar
 ### Contoh: bil1= 6, bil2= 6, bil3= 5, maka bil2= 6 lah yang dianggap bilangan yang terbesar
 # labspy02 selesai
-==================================================================================================================================================
+======================================================================================================================================================
 # Labspy03
 # Latihan 1
 ## Membuat Prrogram Untuk Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
@@ -51,7 +52,7 @@
 ### Berikut hasil program yang saya buat
 ![gambar3](ss/ss3.PNG)
 ### Latihan 1 selesai
-==================================================================================================================================================
+======================================================================================================================================================
 # Latihan 2
 ## Membuat Program Untuk Menampilkan Bilangan Terbesar dari n Buah Data yang Diinputkan
 ### Flowchart program
@@ -80,7 +81,7 @@
 ### dan berikut hasil dari program, saat dijalankan
 ![gambar6](ss/ss6.PNG)
 ### Latihan 2 selesai
-==================================================================================================================================================
+======================================================================================================================================================
 # Program 1
 ## Program Untuk Menghitung Laba Investasi
 ### Flowchart program
